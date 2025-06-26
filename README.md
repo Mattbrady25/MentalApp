@@ -15,3 +15,11 @@ Some feauture features we will implement:
   Styling + Component Library: Design navbar, buttons, form elements, and general page layout. 
 
   Deployment + CI/CD Setup: Set up hosting, environment variables, deployment pipelines. 
+
+
+Backend Installation Setup:
+  python -m venv venv
+  venv\Scripts\activate
+  py -m pip install -r requirements.txt
+  python manage.py runserver
+
