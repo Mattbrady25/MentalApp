@@ -1,2 +1,19 @@
+#Maven
 /target
+# Compiled class files
 *.class
+
+#IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
