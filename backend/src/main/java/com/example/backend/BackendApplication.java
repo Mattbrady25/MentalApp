@@ -20,7 +20,5 @@ public class BackendApplication {
 			return "Hello from spring boot";
 		}
 	}
-
-
-
 }
+
